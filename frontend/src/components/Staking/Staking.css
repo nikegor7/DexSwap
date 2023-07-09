@@ -1,0 +1,15 @@
+.cont{
+    width:600px;
+    height: 400px;
+    display: flex;
+    background-color:  #041525;
+    border-radius: 10px;
+    margin: auto;
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+    justify-content: center;
+    
+
+}

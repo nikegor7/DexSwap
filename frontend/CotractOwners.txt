@@ -1,0 +1,58 @@
+NFT contracts {
+
+    NFT token contract = 
+    NFT contract owner = 
+
+    Treasury nft = 
+    nftholderaddress =
+
+    NFT Sale contract = 
+    NFT Sale contract owner =  
+
+}
+
+ERC20 Tokens {
+
+    MAcToken (for buy nft) address = 
+    owner MacToken = 
+
+    Token1 address= 
+    Token2 address= 
+    TOken3 address= 
+    Token4 address= 
+
+    Token1 owner = 
+    Token2 owner = 
+    Token3 owner = 
+    Token4 owner =
+}
+
+      {/* <div className="ifexist">
+        <div className='scrollable-element'>
+          <div className='pairs '>
+            <text className='text1'>USM + BUSD</text>
+            <text className='text2'>
+             LP Tokens</text>
+          </div>
+          <div className='pairs'>
+            <text className='text1'>USM + USDT</text>
+            <text className='text2'>
+             LP Tokens</text>
+          </div>
+          <div className='pairs'>
+            <text className='text1'>USM + DAI</text>
+            <text className='text2'>
+             LP Tokens</text>
+          </div>
+          <div className='pairs'>
+            <text className='text1'>BUSD + USDT</text>
+            <text className='text2'>
+             LP Tokens</text>
+          </div>
+          <div className='pairs'>
+            <text className='text1'>USDT + DAI</text>
+            <text className='text2'>
+             LP Tokens</text>
+          </div>
+        </div>
+      </div> */}

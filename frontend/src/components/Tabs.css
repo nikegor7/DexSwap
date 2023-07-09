@@ -1,0 +1,31 @@
+.content {
+    width: 600px;
+    margin: auto;
+    margin-top: 5ch;
+    color: rgb(77, 77, 195);
+    text-align: center;
+    overflow: hidden;
+
+  }
+  
+ UL{
+  /* text-align: center; */
+  font-size: 21px;
+  display: inline-block;
+  cursor: pointer;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ ul:hover{
+  border-radius: 5px;
+  background-color: #ddd;
+  color: black;
+}
+
+ ul.act{
+  background-color: #04AA6D;
+  color: white; 
+  border-radius: 5px;
+  padding: auto;
+}
+

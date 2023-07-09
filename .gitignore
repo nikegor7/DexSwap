@@ -1,0 +1,6 @@
+node_modules/
+.deps/
+scripts/
+package-lock.json
+package.json
+remix-compiler.config.js
